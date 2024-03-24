@@ -15,7 +15,7 @@
 
 :books: Atualmente estou estudando com a <i>[Alura](https://cursos.alura.com.br/formacao-programacao)</i>, mas também fiz o <i>[Curso em Vídeo no YouTube](https://www.youtube.com/watch?v=BXqUH86F-kA&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&ab_channel=CursoemV%C3%ADdeo)</i> <br>
 🌱 Tenho aprendido a linguagem <i>JavaScript</i> e tenho interesse em aprender <i>C++</i> em seguida<br>
-🤔 Sujestões de materiais didáticos e cursos são muito bem vindas!<br>
+🤔 Sugestões de materiais didáticos e cursos são muito bem vindas!<br>
 :telescope: Pretendo mudar de carreira e vou postando aqui os meus projetos pessoais!
 
 <div>
