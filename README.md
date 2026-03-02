@@ -5,7 +5,7 @@
 
 ## <i>Olá Devs!</i><br>
 
-### Tenho 28 anos, moro no litoral de Santa Catarina e sou iniciante no mundo da programação!<br>
+### Tenho 29 anos, moro no litoral de Santa Catarina e sou iniciante no mundo da programação!<br>
 
 ![school-college](https://github.com/alanaOnTheShore/alanaOnTheShore/assets/164276418/7221fac6-5aca-4f44-877d-870d84939112)
 
