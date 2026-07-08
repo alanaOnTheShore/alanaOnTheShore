@@ -15,15 +15,15 @@
            
 
 
-:books: Cursando ADS com a UNIVALI
-🌱 Estudei com a <i>[Alura](https://cursos.alura.com.br/formacao-programacao)</i> e também com o <i>[Curso em Vídeo no YouTube](https://www.youtube.com/watch?v=BXqUH86F-kA&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&ab_channel=CursoemV%C3%ADdeo)</i> 
+:books: Cursando ADS com a UNIVALI <br>
+🌱 Estudei com a <i>[Alura](https://cursos.alura.com.br/formacao-programacao)</i> e também com o <i>[Curso em Vídeo no YouTube](https://www.youtube.com/watch?v=BXqUH86F-kA&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&ab_channel=CursoemV%C3%ADdeo)</i> <br>
 🤔 Sugestões de materiais didáticos e cursos são muito bem vindas!<br>
-:telescope: Pretendo mudar de carreira e vou postando aqui os meus projetos pessoais!
+:telescope: Pretendo mudar de carreira e vou postando aqui os meus projetos pessoais! <br>
 
 <a href="https://github.com/alanaOnTheShore">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanaOnTheShore&layout=compact&langs_count=7&theme=dracula"/>
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=alanaOnTheShore&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
 
-*** Contate-me no email!
+<h3> Contate-me no email! </h3><br>
 <a href = "mailto:contatoalanapsn@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
