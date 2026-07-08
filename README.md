@@ -21,8 +21,8 @@
 :telescope: Pretendo mudar de carreira e vou postando aqui os meus projetos pessoais! <br>
 
 <a href="https://github.com/alanaOnTheShore">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanaOnTheShore&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=alanaOnTheShore&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=alanaOnTheShore&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats-one.vercel.app/api?username=alanaOnTheShore&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
 
 <h3> Contate-me no email! </h3><br>
